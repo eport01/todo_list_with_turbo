@@ -1,24 +1,11 @@
-# README
+# Todo List Using Turbo Streams and Action Cable
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Using
+- Ruby on Rails 7
+- Turbo
+- Action Cable/ Websockets
+- Redis
+- Tailwind CSS
